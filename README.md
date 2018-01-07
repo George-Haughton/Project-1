@@ -8,10 +8,13 @@ This game will consist of a player controlling a small square by moving his or h
 #### Non Functional Requirements
 The game will have a pure white backgroud with a pure black border surrounding it. This is to make sure the players knows the space they have to play. While the player is trying to escape they will be focusing on the NPC and their own square and either will not want to look away or will want to take a quick glance at the space they have. Using a strong, visible colour like black gives the player and easier time looking at the space they have with their quick glance.
 
-I will need two different colours for the NPC square and the player square so the player knows which square they are. The NPC square which will be red to indicate it being the enemy, and the player's square will be blue to indicate that is it friendly.
+The game will need two different colours, one for the NPC square and one for the player square; so the player knows which square they are. The NPC square which will be red to indicate it being the enemy, and the player's square will be blue to indicate that is it friendly.
 
 #### Functional Requirements
 The game will be presented in the top left of the screen taking up a space of 600px x 600px, which is a perfect size for the game as it is big enough to not strain the players eyes trying to look at a small box and small enough so it is not completely in your face and unnecessarily huge. Additonally, using this size the game is nor too easy nor too hard.
+
+
+
 
 
 
