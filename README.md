@@ -13,9 +13,9 @@ The game will need two different colours, one for the NPC square and one for the
 #### Functional Requirements
 Create the game screen in the top left of the screen taking up a space of 600px X 600px, which is a perfect size for the game as it is big enough to not strain the players eyes trying to look at a small box and small enough so it is not completely in your face and unnecessarily huge. Additionally, this size is perfect for a game of this nature, as games like this are enjoyable because of their simplicity; and this size provides that.
 
-Create a blue square that will be controlled by the players mouse. This will react instantly to the player's mouse movements so the player has complete control over their square.
+Create a blue square that will be controlled by the player's mouse movements. This square will react instantly to the player's mouse movements so the player has complete control over their square.
 
-Create a red square that an NPC (Non-Playable Charater) will control. This square will move at a slower speed to make sure it does not instantly catch the player. The NPC will follow the players square and try to collide with it 3 times to end the game.
+Create a red square that an NPC (Non-Playable Charater) will control. This square move at a slower speed to make sure it does not instantly catch the player. The NPC will follow the players square and try to collide with it 3 times to end the game.
 
 
 
