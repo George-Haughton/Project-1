@@ -41,7 +41,7 @@ I would like my square to follow my mouse movements so i can guide and control i
 
 ## Project Backlog of what user stories
 
-|User Story|Description     |Points|                                                                  |Due date|
+|User Story|Description     |Points|Due date|
 |----------|------------------------------------------------------------------------------------------------|----------------|
 | 1 |I would like to play the game within a browser, as i would be able to access it very easily.|2|
 | 2 |I would like to be know when the NPC has collided with my square so i know i have lsot a life.|3|
