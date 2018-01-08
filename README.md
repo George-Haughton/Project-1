@@ -30,9 +30,13 @@ Create a red square that an NPC (Non-Playable Charater) will control. This squar
 ## User Stories
 
 I would like to play the game within a browser, as i would be able to access it very easily.
+
 I would like to see the NPC chase me while i am playing, as this would give me a sense competitiveness.
+
 I would like to be know when the NPC has collided with my square so i know i have lsot a life.
+
 I would like to when the NPC has collided with my 3 times so i knjow that i have lost and the game is over.
+
 I would like my square to follow my mouse movements so i can guide and control it.
 
 
