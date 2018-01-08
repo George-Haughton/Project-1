@@ -39,15 +39,15 @@ I would like to when the NPC has collided with my 3 times so i knjow that i have
 
 I would like my square to follow my mouse movements so i can guide and control it.
 
-## Project Backlog of what user stoires have been completed
+## Project Backlog of what user stories
 
 |User Story|Description     |Points|       
-|----------|----------------|
-| 1 |I would like to play the game within a browser, as i would be able to access it very easily.||
-| 2 |I would like to see the NPC chase me while i am playing, as this would give me a sense competitiveness.||
-| 3 |I would like to be know when the NPC has collided with my square so i know i have lost a life.||
-| 4 |I would like to when the NPC has collided with my 3 times so i knjow that i have lost and the game is over.||
-| 5 |I would like my square to follow my mouse movements so i can guide and control it.||
+|----------|------------------------------------------------------------------------------------------------|----------------|
+| 1 |I would like to play the game within a browser, as i would be able to access it very easily.|
+| 2 |I would like to see the NPC chase me while i am playing, as this would give me a sense competitiveness.|
+| 3 |I would like to be know when the NPC has collided with my square so i know i have lost a life.|
+| 4 |I would like to when the NPC has collided with my 3 times so i knjow that i have lost and the game is over.|
+| 5 |I would like my square to follow my mouse movements so i can guide and control it.|
 
 
 
