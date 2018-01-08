@@ -1,8 +1,8 @@
 # Project 1
 
 
-## 1. Description
-This game will consist of a player controlling a small square by moving his or her mouse. There will be an NPC (non-playable chracter) chasing the players mouse and will attempt to touch the players mouse/square with its own square. The player will have 3 lives and will need to run away from the NPC for as long as possible but as soon as the players is touched 3 times the game will end.
+## 1. Specifications
+This game will consist of a player controlling a small square by moving his or her mouse. There will be an NPC (Non-Playable Character) chasing the players mouse and will attempt to touch the players mouse/square with its own square. The player will have 3 lives and will need to run away from the NPC for as long as possible but as soon as the players is touched 3 times the game will end.
 
 ## 2. Requirements
 #### Non Functional Requirements
@@ -11,7 +11,13 @@ The game will have a pure white backgroud with a pure black border surrounding i
 The game will need two different colours, one for the NPC square and one for the player square; so the player knows which square they are. The NPC square which will be red to indicate it being the enemy, and the player's square will be blue to indicate that is it friendly.
 
 #### Functional Requirements
-The game will be presented in the top left of the screen taking up a space of 600px x 600px, which is a perfect size for the game as it is big enough to not strain the players eyes trying to look at a small box and small enough so it is not completely in your face and unnecessarily huge. Additonally, using this size the game is nor too easy nor too hard.
+Create the game screen in the top left of the screen taking up a space of 600px X 600px, which is a perfect size for the game as it is big enough to not strain the players eyes trying to look at a small box and small enough so it is not completely in your face and unnecessarily huge. Additionally, this size is perfect for a game of this nature, as games like this are enjoyable because of their simplicity; and this size provides that.
+
+Create a blue square that will be controlled by the players mouse. This will react instantly to the player's mouse movements so the player has complete control over their square.
+
+Create a red square that an NPC (Non-Playable Charater) will control. This square will move at a slower speed to make sure it does not instantly catch the player. The NPC will follow the players square and try to collide with it 3 times to end the game.
+
+
 
 
 
