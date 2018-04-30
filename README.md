@@ -26,6 +26,16 @@ This game will consist of a player controlling a small square by moving his or h
 
 7. Create a red square that an NPC (Non-Playable Charater) will control. This square move at a slower speed to make sure it does not instantly catch the player. The NPC will follow the players square and try to collide with it 3 times to end the game.
 
+## Software requirements 
+I am going to write the code in Javascript, as this is the language we have been told to use.
+
+The IDE i am going to use is going to be NotePad, as this is the IDE we have been told to use.
+
+I am going to make sure the NPC follows the player controlled square, as this is one of the main purposes of the game.
+
+I will be giving the player controlled square 3 lives, as this was a requirement of the project.
+
+
 ## User Stories
 
 I would like to play the game within a browser, as i would be able to access it very easily.
@@ -55,20 +65,3 @@ Firstly, i broke the project into requirements; these are the most important/mai
 Secondly, i created user stories which are tasks or events that a player will want to happen within the game. For example a user story i created was 'as a player i would like to know when the NPC has touched my square' this gave me a better idea at what features i would need to add to meet the requirements, make the player engaged and make sure they are enjoying the game. Additionally, the user stories gave me a better understanding at what the player would like to see/experience when playing. 
 
 After making user stories to help me better understand the project from a players perspective i created a project backlog based on the user stories. This consisted of me outlining the user story, having a difficulty/value from 1-5; 1 being easy and 5 being very difficult to make sure i prioritised the more difficult user story. It also contained a part where i answered if it had been completed or not. This gave me an idea at what i should be working on first and give myself mroe time to work on the ones i may need more time to complete.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
