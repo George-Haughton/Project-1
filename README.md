@@ -27,13 +27,13 @@ This game will consist of a player controlling a small square by moving his or h
 7. Create a red square that an NPC (Non-Playable Charater) will control. This square move at a slower speed to make sure it does not instantly catch the player. The NPC will follow the players square and try to collide with it 3 times to end the game.
 
 ## Software requirements 
-I am going to write the code in Javascript, as this is the language we have been told to use.
+* I will be writing the code of the game in Javascript.
 
-The IDE i am going to use is going to be NotePad, as this is the IDE we have been told to use.
+* The IDE i will be using is Notpad
 
-I am going to make sure the NPC follows the player controlled square, as this is one of the main purposes of the game.
+* I am going to make sure the NPC follows the player controlled square
 
-I will be giving the player controlled square 3 lives, as this was a requirement of the project.
+* I will make sure the player controlled square is controlled by the movement of the players mouse
 
 
 ## User Stories
